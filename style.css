@@ -1,0 +1,16 @@
+body {
+  background: #000;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+}
+#game {
+  border: 2px solid #fff;
+  background: #000;
+}
+#score {
+  margin: 10px;
+  font-size: 20px;
+}
